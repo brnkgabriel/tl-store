@@ -25,8 +25,5 @@ export default {
       // the way to enable pwa is to remove "enabled: false" from below
       // enabled: false
     },
-  }, 
-  env: {
-    googleAnalyticsId: process.env.GOOGLE_ANALYTICS_ID
-  },
+  }
 }

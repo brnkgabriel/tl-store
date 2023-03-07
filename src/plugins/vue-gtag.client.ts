@@ -6,7 +6,7 @@ export default defineNuxtPlugin(nuxtApp => {
   // Doing something with nuxtApp
   nuxtApp.vueApp.use(VueGtag, {
     property: {
-      id: "G-R6G45G34LW",
+      id: "G-0CTTSMVGYY",
       params: {
         user_id: getMachineId(),
         send_page_view: false,
