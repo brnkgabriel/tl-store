@@ -203,17 +203,17 @@ export const skeletonTools: iTool[] = num2List(40).map(() => ({
 }))
 
 export const head = {
-  title: "Tools n Tuts",
+  title: "TL Store",
   meta: [
     { hid: 'og:image', property: 'og:image', content: "https://tl-store.vercel.app/images/background_1920x1080v3.jpg" },
-    { hid: 'og:title', property: 'og:title', content: "Tools n Tuts" },
-    { hid: 'og:name', property: 'og:name', content: "Tools n Tuts" },
-    { hid: 'og:name', property: 'og:name', content: "Tools n Tuts" },
+    { hid: 'og:title', property: 'og:title', content: "TL Store" },
+    { hid: 'og:name', property: 'og:name', content: "TL Store" },
+    { hid: 'og:name', property: 'og:name', content: "TL Store" },
     { hid: 'og:type', property: 'og:type', content: "website" },
-    { hid: 'og:description', property: 'og:description', content: "The best open source tools and tutorials you need for work" },
+    { hid: 'og:description', property: 'og:description', content: "Your all-in-one ecommerce destination for phones, electronics,groceries, fashion, and beauty products, offering a convenient and hassle-free shopping experience." },
     { hid: 'og:image:type', property: 'og:image:type', content: 'JPEG' },
     { hid: 'og:url', property: 'og:url', content: "https://tl-store.vercel.app/" },
-    { hid: 'keywords', name: 'keywords', content: "tools, tuts, productivity, plus, open, source, open source, design, develop, animate, blender, 3D, programming, JavaScript, editing, audio, video, modeling, animation, rendering, applications, apps, tutorials, ui/ux, drawing" },
+    { hid: 'keywords', name: 'keywords', content: "phones, accessories, fashion, beauty, groceries, hampers, bundles" },
     { hid: 'google-site-verification', name: 'google-site-verification', content: "w04df0jczUYBXM5xDEK_EI4EE8RQ2JHa35WQQOQ-FSo" },
     { hid: "robots", name: "robots", content: "index,follow" }
   ]
